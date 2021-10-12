@@ -2,10 +2,10 @@
 
 ---
 
-![img](/DOCUMENTS/DCC-ACCSSORY-DECODER/Nmra-Dcc-Accssory-Decoder-Basic/image/6N137-octocupler.JPG)
-![img](/DOCUMENTS/DCC-ACCSSORY-DECODER/Nmra-Dcc-Accssory-Decoder-Basic/image/dcc-decoder-circuits.png)
-![img](/DOCUMENTS/DCC-ACCSSORY-DECODER/Nmra-Dcc-Accssory-Decoder-Basic/image/circuit_connection.JPG)
-![img](/DOCUMENTS/DCC-ACCSSORY-DECODER/Nmra-Dcc-Accssory-Decoder-Basic/image/circuit.JPG)
+![img](/image/6N137-octocupler.JPG)
+![img](/image/dcc-decoder-circuits.png)
+![img](/image/circuit_connection.JPG)
+![img](/image/circuit.JPG)
 
 
 
@@ -25,7 +25,7 @@ take jumper from pin 6 after the +5v joint and then connect to the arduino pin 2
 connect the pin 8 directly tot he +5v 
 
 ```
-![img](/DOCUMENTS/DCC-ACCSSORY-DECODER/Nmra-Dcc-Accssory-Decoder-Basic/image/connections.JPG)
+![img](/image/connections.JPG)
 
 ## NCE poewr pro 
 ```
