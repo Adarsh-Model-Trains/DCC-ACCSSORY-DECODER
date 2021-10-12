@@ -5,7 +5,7 @@
 ## [DCC ACCESSORY DECODER LIB DOWNLOAD LINK ](https://github.com/Adarsh-Model-Trains/DCC-ACCSSORY-DECODER/raw/main/dc-decoder-lib/DCC_Decoder.zip)
 
 
-##  [CLICK HERE FOR SAMPLE ARDUINO CODE FOR DECODER](https://github.com/Adarsh-Model-Trains/DCC-ACCSSORY-DECODER/tree/main/)
+##  [CLICK HERE FOR SAMPLE ARDUINO CODE FOR DECODER](https://github.com/Adarsh-Model-Trains/DCC-ACCSSORY-DECODER/tree/main/Nmra-Dcc-Accssory-Decoder-Basic)
 
 ![img](image/6N137-octocupler.JPG)
 
