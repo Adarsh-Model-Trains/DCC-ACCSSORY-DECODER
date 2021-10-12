@@ -2,10 +2,10 @@
 
 ---
 
-![img](/image/6N137-octocupler.JPG)
-![img](/image/dcc-decoder-circuits.png)
-![img](/image/circuit_connection.JPG)
-![img](/image/circuit.JPG)
+![img](image/6N137-octocupler.JPG)
+![img](image/dcc-decoder-circuits.png)
+![img](image/circuit_connection.JPG)
+![img](image/circuit.JPG)
 
 
 
